@@ -1,5 +1,4 @@
 //
-// Created by rei on 18/04/20.
 //
 #include <vector>
 #include "client.h"
