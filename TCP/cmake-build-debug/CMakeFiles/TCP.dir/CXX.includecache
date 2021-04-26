@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rei/Desktop/UNSW/COMP9331 Computer Networks and Applications/TCP/main.cpp
+iostream
+-
+cstdlib
+-
+thread
+-
+vector
+-
+ctime
+-
+fstream
+-
+string
+-
+sys/socket.h
+-
+netdb.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+map
+-
+
