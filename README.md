@@ -23,3 +23,18 @@ Implmented based on socket, tested on Linux/Mac OS
 ### Functions:
 *  User authentication
 *  Send & Recv message from TCP server
+
+##  DEMO
+### Server
+  Running server.cpp (multi-thread version)
+  
+### Clent
+  Running clent.cpp, user authentication info in credentials.txt
+  
+### Server Commands:
+  close:  shut down main thread, stop program.
+  
+### Client Commands:
+1.  MSG xxxx:   Post a message
+2.  RDM 2:      Read all message start at the second message in recording
+3.  OUT:        Stop connection
