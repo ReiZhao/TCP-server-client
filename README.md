@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/language-C++-brightgreen)  &nbsp;  ![](https://img.shields.io/badge/build-passing-brightgreen)
+
 # TCP-server-client
 Sample TCP server &amp; TCP client in C++
 
